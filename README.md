@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayushikjoshi
+- 👋 Hi, I’m @Amy
 - 👀 I’m interested in ICT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
